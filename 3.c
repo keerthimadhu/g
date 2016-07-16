@@ -1,4 +1,4 @@
-nt main()
+int main()
 {
     char ch
     int isLowercaseVowel, isUppercaseVowel;
